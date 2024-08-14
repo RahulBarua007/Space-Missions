@@ -1,6 +1,6 @@
 # Space-Missions
 
-## Link to _[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjQ0Y2I3YmQtODY0Mi00YjQ3LTgxNjUtYzRlOWFkZmI4YjczIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)(https://www.linkedin.com/posts/rahul-barua-37444726b_dataanalysis-spacemissions-excel-activity-7212662425353871360-C3Ye?utm_source=share&utm_medium=member_desktop)
+## Link to _[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjQ0Y2I3YmQtODY0Mi00YjQ3LTgxNjUtYzRlOWFkZmI4YjczIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) _[LinkedIn Post](https://www.linkedin.com/posts/rahul-barua-37444726b_dataanalysis-spacemissions-excel-activity-7212662425353871360-C3Ye?utm_source=share&utm_medium=member_desktop)
 
 ## ⚒️𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀🛠️
 𝑻𝒉𝒓𝒐𝒖𝒈𝒉𝒐𝒖𝒕 𝒕𝒉𝒊𝒔 𝒑𝒓𝒐𝒋𝒆𝒄𝒕, 𝑰 𝒖𝒕𝒊𝒍𝒊𝒛𝒆𝒅 𝑬𝒙𝒄𝒆𝒍 𝒂𝒏𝒅 𝑷𝒐𝒘𝒆𝒓 𝑩𝑰 𝒕𝒐 𝒂𝒏𝒂𝒍𝒚𝒛𝒆 𝒂𝒏𝒅 𝒗𝒊𝒔𝒖𝒂𝒍𝒊𝒛𝒆 𝒕𝒉𝒆 𝒅𝒂𝒕𝒂, 𝒕𝒖𝒓𝒏𝒊𝒏𝒈 𝒓𝒂𝒘 𝒏𝒖𝒎𝒃𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒎𝒆𝒂𝒏𝒊𝒏𝒈𝒇𝒖𝒍 𝒔𝒕𝒐𝒓𝒊𝒆𝒔. 𝑻𝒉𝒊𝒔 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𝒏𝒐𝒕 𝒐𝒏𝒍𝒚 𝒉𝒐𝒏𝒆𝒅 𝒎𝒚 𝒕𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝒔𝒌𝒊𝒍𝒍𝒔 𝒃𝒖𝒕 𝒂𝒍𝒔𝒐 𝒅𝒆𝒆𝒑𝒆𝒏𝒆𝒅 𝒎𝒚 𝒂𝒑𝒑𝒓𝒆𝒄𝒊𝒂𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒊𝒏𝒄𝒓𝒆𝒅𝒊𝒃𝒍𝒆 𝒂𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔 𝒊𝒏 𝒔𝒑𝒂𝒄𝒆 𝒆𝒙𝒑𝒍𝒐𝒓𝒂𝒕𝒊𝒐𝒏.
